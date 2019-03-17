@@ -14,4 +14,4 @@
  * @package Phonebook Web App
  */
   
-  
+  require('load.php');
