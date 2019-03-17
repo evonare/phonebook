@@ -33,7 +33,8 @@
     <div class='row'>
       <div class='col-5'>
         <form action="" method='post'>
-          <input type="text" name='' placeholder='' class='form-control no-border-radius'>
+          <h1 class='mt-5 mb-5'>Add a new contact</h1>
+          First Name<input type="text" name='' placeholder='' class='form-control no-border-radius'>
         </form>
       </div>
     </div>
