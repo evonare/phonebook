@@ -3,7 +3,7 @@
  * @copyright Rana Jahanzaib 2019
  * 
  * 
- * Application Loader
+ * Application Configurations
  * 
  * 
  * 
