@@ -41,9 +41,9 @@
           Nickname<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
           Company<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
           Phone Number(s)<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
-          Email(s)<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
-          Website(s)<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
-          Birthday<input type="text" name='' placeholder='' class='form-control no-border-radius mb-3'>
+          Email(s)<input type="email" name='' placeholder='' class='form-control no-border-radius mb-3'>
+          Website(s)<input type="url" name='' placeholder='' class='form-control no-border-radius mb-3'>
+          Birthday<input type="date" name='' placeholder='' class='form-control no-border-radius mb-3'>
           Notes<textarea class='form-control no-border-radius mb-3'></textarea>
           <input type="submit" name="" class="form-control btn btn-warning no-border-radius">
         </form>
