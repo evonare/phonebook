@@ -54,7 +54,7 @@
       </div>
       <div class='col-xl-7 col-lg-7 col-md-7 col-sm-12 col-xs-12'>
         <h1 class='mt-5 mb-5'>Find your contacts</h1>
-        <table class='table table-responsive table-striped'>
+        <table class='table table-responsive table-striped small'>
           <tr class='bg-warning text-white'>
             <th>#</th>
             <th>Name</th>
