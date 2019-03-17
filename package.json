@@ -1,0 +1,25 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "A Phonebook Web App written in PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahanzaibv2/phonebook.git"
+  },
+  "author": "Rana Jahanzaib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jahanzaibv2/phonebook/issues"
+  },
+  "homepage": "https://github.com/Jahanzaibv2/phonebook#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
