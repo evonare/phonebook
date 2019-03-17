@@ -26,7 +26,7 @@
   <link rel='stylesheet' href='src/css/font-awesome.min.css'/>
   <link rel='stylesheet' href='src/css/bootstrap.min.css'/>
   <link rel='stylesheet' href='src/css/app.css'/>
-  <title>Phonebook</title>
+  <title>PhoneBook</title>
 </head>
 <body>
   <div class='container-fluid'>
