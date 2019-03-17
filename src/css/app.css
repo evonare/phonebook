@@ -16,3 +16,7 @@
 body {
   font-family: 'Poppins' !important;
 }
+
+.no-border-radius {
+  border-radius: 0px !important;
+}

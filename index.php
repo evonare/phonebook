@@ -30,10 +30,10 @@
 </head>
 <body>
   <div class='container'>
-    <div class='row text-center'>
-      <div class='col-6'>
+    <div class='row'>
+      <div class='col-5'>
         <form action="" method='post'>
-          
+          <input type="text" name='' placeholder='' class='form-control no-border-radius'>
         </form>
       </div>
     </div>
