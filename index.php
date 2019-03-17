@@ -26,7 +26,7 @@
   <link rel='stylesheet' href='src/css/font-awesome.min.css'/>
   <link rel='stylesheet' href='src/css/bootstrap.min.css'/>
   <link rel='stylesheet' href='src/css/app.css'/>
-  <title>PhoneBook</title>
+  <title>PhoneBook - A phonebook application written in PHP</title>
 </head>
 <body>
   <div class='container-fluid'>
