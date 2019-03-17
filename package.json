@@ -1,7 +1,7 @@
 {
-  "name": "phonebook",
+  "name": "PhoneBook",
   "version": "1.0.0",
-  "description": "A Phonebook Web App written in PHP",
+  "description": "A PhoneBook Web App written in PHP",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
