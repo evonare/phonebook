@@ -29,7 +29,15 @@
   <title>Phonebook</title>
 </head>
 <body>
-
+  <div class='container'>
+    <div class='row text-center'>
+      <div class='col-6'>
+        <form action="" method='post'>
+          
+        </form>
+      </div>
+    </div>
+  </div>
   <script src='src/js/jquery.min.js'></script>
   <script src='src/js/bootstrap.min.js'></script>
   <script src='src/js/popper.min.js'></script>
