@@ -1,2 +1,2 @@
-# phonebook
-A Phonebook Web App written in PHP
+# PhoneBook
+A PhoneBook Web App written in PHP
