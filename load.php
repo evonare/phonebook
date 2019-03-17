@@ -11,7 +11,7 @@
  * 
  * @author Rana Jahanzaib <Jahanzaibv2@gmail.com>
  * 
- * @package Phonebook Web App
+ * @package PhoneBook Web App
  */
   
   // Define ABSPATH as this file's directory
